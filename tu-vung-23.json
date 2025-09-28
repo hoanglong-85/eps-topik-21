@@ -1,0 +1,182 @@
+[
+    {
+        "korean": " 우체국 ",
+        "vietnamese": " Bưu điện\r",
+        "audio": "tu-vung-23-1.mp3"
+    },
+    {
+        "korean": " 우편 ",
+        "vietnamese": " Dịch vụ thư tín\r",
+        "audio": "tu-vung-23-2.mp3"
+    },
+    {
+        "korean": " 편지 ",
+        "vietnamese": " Thư\r",
+        "audio": "tu-vung-23-3.mp3"
+    },
+    {
+        "korean": " 편지 봉투 ",
+        "vietnamese": " Bì thư\r",
+        "audio": "tu-vung-23-4.mp3"
+    },
+    {
+        "korean": " 보내는 사람\/발신인 ",
+        "vietnamese": " Người gửi\r",
+        "audio": "tu-vung-23-5.mp3"
+    },
+    {
+        "korean": " 받는 사람\/수취인 ",
+        "vietnamese": " Người nhận\r",
+        "audio": "tu-vung-23-6.mp3"
+    },
+    {
+        "korean": " 주소 ",
+        "vietnamese": " Địa chỉ\r",
+        "audio": "tu-vung-23-7.mp3"
+    },
+    {
+        "korean": " 우편번호 ",
+        "vietnamese": " Mã bưu điện\r",
+        "audio": "tu-vung-23-8.mp3"
+    },
+    {
+        "korean": " 우표 ",
+        "vietnamese": " Tem thư\r",
+        "audio": "tu-vung-23-9.mp3"
+    },
+    {
+        "korean": " 우편물 ",
+        "vietnamese": " Bưu phẩm, thư từ\r",
+        "audio": "tu-vung-23-10.mp3"
+    },
+    {
+        "korean": " 일반 우편 ",
+        "vietnamese": " Dịch vụ thư thường\r",
+        "audio": "tu-vung-23-11.mp3"
+    },
+    {
+        "korean": " 등기 우편 ",
+        "vietnamese": " Thư đảm bảo\r",
+        "audio": "tu-vung-23-12.mp3"
+    },
+    {
+        "korean": " 국내 소포 ",
+        "vietnamese": " Bưu phẩm trong nước\r",
+        "audio": "tu-vung-23-13.mp3"
+    },
+    {
+        "korean": " 국제 우편 ",
+        "vietnamese": " Thư quốc tế\r",
+        "audio": "tu-vung-23-14.mp3"
+    },
+    {
+        "korean": " 우체통 ",
+        "vietnamese": " Hòm thư\r",
+        "audio": "tu-vung-23-15.mp3"
+    },
+    {
+        "korean": " 택배 ",
+        "vietnamese": " Giao hàng, dịch vụ vận chuyển\r",
+        "audio": "tu-vung-23-16.mp3"
+    },
+    {
+        "korean": " 등기 소포 ",
+        "vietnamese": " Bưu phẩm đảm bảo\r",
+        "audio": "tu-vung-23-17.mp3"
+    },
+    {
+        "korean": " 익일 특급 ",
+        "vietnamese": " Hỏa tốc hôm sau\r",
+        "audio": "tu-vung-23-18.mp3"
+    },
+    {
+        "korean": " 일반 소포 ",
+        "vietnamese": " Bưu phẩm thường\r",
+        "audio": "tu-vung-23-19.mp3"
+    },
+    {
+        "korean": " 항공 우편 ",
+        "vietnamese": " Đường hàng không\r",
+        "audio": "tu-vung-23-20.mp3"
+    },
+    {
+        "korean": " 선박 우편 ",
+        "vietnamese": " Đường biển\r",
+        "audio": "tu-vung-23-21.mp3"
+    },
+    {
+        "korean": " 국제 특급 ",
+        "vietnamese": " Chuyển phát nhanh quốc tế\r",
+        "audio": "tu-vung-23-22.mp3"
+    },
+    {
+        "korean": " 하루 ",
+        "vietnamese": " 1 ngày\r",
+        "audio": "tu-vung-23-23.mp3"
+    },
+    {
+        "korean": " 이틀 ",
+        "vietnamese": " 2 ngày\r",
+        "audio": "tu-vung-23-24.mp3"
+    },
+    {
+        "korean": " 사흘 ",
+        "vietnamese": " 3 ngày\r",
+        "audio": "tu-vung-23-25.mp3"
+    },
+    {
+        "korean": " 나흘 ",
+        "vietnamese": " 4 ngày\r",
+        "audio": "tu-vung-23-26.mp3"
+    },
+    {
+        "korean": " 업무 ",
+        "vietnamese": " Công việc\r",
+        "audio": "tu-vung-23-27.mp3"
+    },
+    {
+        "korean": " 부치다 ",
+        "vietnamese": " Gửi thư\r",
+        "audio": "tu-vung-23-28.mp3"
+    },
+    {
+        "korean": " 배송하다 ",
+        "vietnamese": " Vận chuyển, chuyển phát\r",
+        "audio": "tu-vung-23-29.mp3"
+    },
+    {
+        "korean": " 주소를 쓰다 ",
+        "vietnamese": " Viết địa chỉ\r",
+        "audio": "tu-vung-23-30.mp3"
+    },
+    {
+        "korean": " 포장하다 ",
+        "vietnamese": " Đóng gói\r",
+        "audio": "tu-vung-23-31.mp3"
+    },
+    {
+        "korean": " 받다 ",
+        "vietnamese": " Nhận\r",
+        "audio": "tu-vung-23-32.mp3"
+    },
+    {
+        "korean": " 요금을 내다 ",
+        "vietnamese": " Trả phí\r",
+        "audio": "tu-vung-23-33.mp3"
+    },
+    {
+        "korean": " 킬로그램 ",
+        "vietnamese": " Kilogram (kg)\r",
+        "audio": "tu-vung-23-34.mp3"
+    },
+    {
+        "korean": " 저울에 올리다 ",
+        "vietnamese": " Đặt lên cân\r",
+        "audio": "tu-vung-23-35.mp3"
+    },
+    {
+        "korean": " 무게를 재다 ",
+        "vietnamese": " Cân trọng lượng",
+        "audio": "tu-vung-23-36.mp3"
+    }
+]
