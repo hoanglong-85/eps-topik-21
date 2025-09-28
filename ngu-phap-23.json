@@ -1,0 +1,25 @@
+[{
+  "nguphap": "-는데/(으)ㄴ데",
+  "loai": "동사/형용사 + -는데/(으)ㄴ데",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để biểu thị rằng nội dung phía trước là bối cảnh hoặc nền cho nội dung phía sau.",
+  "vidu": [
+    {"cau": "퇴근하는데 비가 왔어요.", "nghia": "Đang tan sở thì trời mưa."},
+    {"cau": "배가 아픈데 약이 있어요?", "nghia": "Tôi bị đau bụng, có thuốc không?"},
+    {"cau": "월요일인데 회사에 안 가요?", "nghia": "Hôm nay là thứ Hai mà bạn không đi làm à?"},
+    {"cau": "네, 오늘부터 휴가예요.", "nghia": "Vâng, từ hôm nay tôi nghỉ phép."}
+  ],
+  "luat": "Động từ, 있다/없다 → -는데 (먹다 → 먹는데, 오다 → 오는데, 있다 → 있는데). Tính từ: có 받침 → -은데 (많다 → 많은데), không có 받침 hoặc 받침 ㄹ → -ㄴ데 (크다 → 큰데, 길다 → 긴데)."
+},
+{
+  "nguphap": "-지요?",
+  "loai": "동사/형용사 + -지요?",
+  "ynghia": "Được thêm vào động từ hoặc tính từ khi người nói nghĩ rằng người nghe cũng biết thông tin đó và muốn xác nhận hoặc tìm sự đồng ý.",
+  "vidu": [
+    {"cau": "매운 음식을 좋아하지요?", "nghia": "Bạn thích đồ ăn cay đúng không?"},
+    {"cau": "한국은 겨울에 춥지요?", "nghia": "Hàn Quốc vào mùa đông thì lạnh đúng không?"},
+    {"cau": "아궁 씨 생일이 내일이지요?", "nghia": "Sinh nhật của anh Agung là ngày mai đúng không?"},
+    {"cau": "아니요, 토요일이에요.", "nghia": "Không, là thứ Bảy."},
+    {"cau": "등기 우편으로 보내면 내일 도착하죠?", "nghia": "Gửi bằng thư đảm bảo thì ngày mai tới đúng không?"}
+  ],
+  "luat": "Có thể rút gọn thành -죠? trong hội thoại. Động từ, tính từ + -지요? để xác nhận hoặc tìm sự đồng ý."
+}]

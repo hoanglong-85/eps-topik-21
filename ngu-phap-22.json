@@ -1,0 +1,24 @@
+[{
+  "nguphap": "-(으)니까",
+  "loai": "동사/형용사 + -(으)니까",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để biểu thị rằng nội dung phía trước là lý do hoặc cơ sở cho nội dung phía sau.",
+  "vidu": [
+    {"cau": "그 옷을 입으니까 멋있어요.", "nghia": "Vì mặc bộ quần áo đó nên trông đẹp."},
+    {"cau": "열이 많이 나니까 기숙사에서 쉬세요.", "nghia": "Vì sốt cao nên hãy nghỉ ở ký túc xá."},
+    {"cau": "오늘은 피곤하니까 내일 만날까요?", "nghia": "Hôm nay mệt quá, chúng ta gặp nhau vào ngày mai nhé?"}
+  ],
+  "luat": "Động từ có 받침 → -으니까 (먹다 → 먹으니까), không có 받침 hoặc 받침 ㄹ → -니까 (가다 → 가니까, 만들다 → 만드니까). Trái ngược với -아서/어서, -(으)니까 có thể đi kèm câu mệnh lệnh hoặc yêu cầu."
+},
+{
+  "nguphap": "-(으)ㄴ 후에",
+  "loai": "동사 + -(으)ㄴ 후에",
+  "ynghia": "Được thêm vào động từ để biểu thị rằng hành động phía sau xảy ra sau khi hành động phía trước kết thúc. Khi kết hợp với danh từ chỉ thời gian, nó chỉ mốc thời gian.",
+  "vidu": [
+    {"cau": "식사 후에 회의를 시작할 거예요.", "nghia": "Sau bữa ăn, sẽ bắt đầu cuộc họp."},
+    {"cau": "한 시간 후에 전화할게요.", "nghia": "Tôi sẽ gọi điện sau một giờ."},
+    {"cau": "이 약은 밥을 먹은 후에 드세요.", "nghia": "Hãy uống thuốc này sau khi ăn cơm."},
+    {"cau": "저는 매일 샤워한 후에 잠을 자요.", "nghia": "Tôi tắm xong rồi mới đi ngủ hàng ngày."},
+    {"cau": "불고기는 고기와 채소를 썬 후에 양념을 넣고 볶아요.", "nghia": "Bulgogi được xắt thịt và rau rồi mới cho gia vị vào xào."}
+  ],
+  "luat": "Động từ có 받침 → -은 후에 (읽다 → 읽은 후에), không có 받침 hoặc 받침 ㄹ → -ㄴ 후에 (보다 → 본 후에, 놀다 → 논 후에). Khi dùng với danh từ chỉ thời gian, cấu trúc là 명사 후에."
+}]

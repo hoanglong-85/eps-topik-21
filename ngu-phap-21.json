@@ -1,0 +1,22 @@
+[{
+  "nguphap": "-(으)면",
+  "loai": "동사/형용사 + -(으)면",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để biểu thị rằng nội dung phía trước là điều kiện hoặc giả định cho nội dung phía sau.",
+  "vidu": [
+    {"cau": "시간이 있으면 공원에서 축구해요.", "nghia": "Nếu có thời gian, tôi sẽ chơi bóng ở công viên."},
+    {"cau": "아지자 씨 전화번호를 알면 가르쳐 주세요.", "nghia": "Nếu biết số điện thoại của Aziza, hãy chỉ cho tôi."},
+    {"cau": "가: 한국에 가면 뭘 하고 싶어요? 나: 한국 회사에서 일하고 싶어요.", "nghia": "A: Nếu bạn đi Hàn Quốc, bạn muốn làm gì? B: Tôi muốn làm việc ở công ty Hàn Quốc."}
+  ],
+  "luat": "Động từ có 받침 → -으면 (먹다 → 먹으면), không có 받침 hoặc 받침 ㄹ → -면 (아프다 → 아프면, 살다 → 살면)."
+},
+{
+  "nguphap": "-지 마세요",
+  "loai": "동사 + -지 마세요",
+  "ynghia": "Được thêm vào động từ để yêu cầu ai đó không làm một hành động nào đó hoặc cấm một hành động.",
+  "vidu": [
+    {"cau": "여기에 앉지 마세요.", "nghia": "Đừng ngồi ở đây."},
+    {"cau": "신발을 신고 방에 들어가지 마세요.", "nghia": "Đừng vào phòng mang giày."},
+    {"cau": "눈이 많이 올 때는 등산하지 마세요.", "nghia": "Khi trời nhiều tuyết, đừng leo núi."}
+  ],
+  "luat": "Động từ + -지 마세요 dùng để đưa ra yêu cầu hoặc cấm đoán hành động."
+}]

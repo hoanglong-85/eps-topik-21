@@ -1,0 +1,23 @@
+[{
+  "nguphap": "-(으)러",
+  "loai": "동사 + -(으)러",
+  "ynghia": "Được thêm vào động từ để chỉ mục đích di chuyển đến một nơi nào đó. Chỉ đi kèm với các động từ chỉ di chuyển như 가다, 오다, 다니다.",
+  "vidu": [
+    {"cau": "민민아웅 씨는 상담을 받으러 상담센터에 갔어요.", "nghia": "Min Min Aung đã đi đến trung tâm tư vấn để nhận tư vấn."},
+    {"cau": "다라 씨는 한국어를 배우러 센터에 다녀요.", "nghia": "Dara đi đến trung tâm để học tiếng Hàn."},
+    {"cau": "내일은 여권을 만들러 시청에 가야 해요.", "nghia": "Ngày mai phải đi đến tòa thị chính để làm hộ chiếu."}
+  ],
+  "luat": "Nếu động từ có 받침 thì dùng -으러, nếu không có hoặc kết thúc bằng ㄹ thì dùng -러. Chỉ dùng với động từ chỉ di chuyển."
+},
+{
+  "nguphap": "-기 때문에",
+  "loai": "동사/형용사 + -기 때문에",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để chỉ lý do hoặc nguyên nhân cho nội dung phía sau. Khi dùng với danh từ, có thể dùng dạng 명사 때문에.",
+  "vidu": [
+    {"cau": "감기 때문에 회사에 못 갔어요.", "nghia": "Vì bị cảm nên tôi không đi làm được."},
+    {"cau": "오늘은 눈이 오기 때문에 길이 복잡할 거예요.", "nghia": "Hôm nay đường sẽ đông vì tuyết rơi."},
+    {"cau": "내일 건강 검진을 받기 때문에 저녁을 안 먹어요.", "nghia": "Ngày mai tôi đi khám sức khỏe nên không ăn tối."},
+    {"cau": "저는 한국어를 잘 못하기 때문에 한국어 수업을 신청했어요.", "nghia": "Vì tôi không giỏi tiếng Hàn nên đã đăng ký lớp học tiếng Hàn."}
+  ],
+  "luat": "Nếu là động từ/tính từ, thêm -기 때문에. Nếu là danh từ, thêm 때문에."
+}]

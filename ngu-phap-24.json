@@ -1,0 +1,23 @@
+[{
+  "nguphap": "-(으)려고",
+  "loai": "동사 + -(으)려고",
+  "ynghia": "Được thêm vào động từ để chỉ ý định hoặc mục đích thực hiện hành động phía sau.",
+  "vidu": [
+    {"cau": "휴가 때 입으려고 옷을 샀어요.", "nghia": "Tôi đã mua quần áo để mặc vào kỳ nghỉ."},
+    {"cau": "방 청소를 하려고 창문을 열었어요.", "nghia": "Tôi mở cửa sổ để dọn phòng."},
+    {"cau": "가: 주말에 뭘 할 거예요?", "nghia": "Cuối tuần bạn sẽ làm gì?"},
+    {"cau": "나: 친구와 놀려고 시내에 갈 거예요.", "nghia": "Tôi sẽ đi xuống phố để chơi với bạn."}
+  ],
+  "luat": "Động từ + -(으)려고: nếu động từ có 받침 thì dùng -으려고, nếu không có hoặc kết thúc bằng ㄹ thì dùng -려고."
+},
+{
+  "nguphap": "-(으)면 되다",
+  "loai": "동사/형용사 + -(으)면 되다",
+  "ynghia": "Được thêm vào động từ hoặc tính từ để chỉ rằng chỉ cần một hành động được thực hiện hoặc một trạng thái được đáp ứng thì mọi việc sẽ ổn.",
+  "vidu": [
+    {"cau": "국이 싱거우면 소금을 넣으면 돼요.", "nghia": "Nếu canh nhạt, chỉ cần thêm muối là được."},
+    {"cau": "자야 씨를 만나고 싶으면 사무실로 가면 돼요.", "nghia": "Nếu muốn gặp Jaya, chỉ cần đi đến văn phòng là được."},
+    {"cau": "체크 카드가 없으면 만들면 돼요.", "nghia": "Nếu không có thẻ ghi nợ, chỉ cần làm một cái là được."}
+  ],
+  "luat": "Động từ/tính từ + -(으)면 되다: nếu động từ có 받침 thì dùng -으면 되다, nếu không có hoặc kết thúc bằng ㄹ thì dùng -면 되다."
+}]
