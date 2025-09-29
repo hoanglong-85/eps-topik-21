@@ -1,0 +1,45 @@
+[
+  {
+    "title": {
+      "korean": "외국인력상담센터",
+      "vietnamese": "Trung tâm tư vấn nhân lực nước ngoài"
+    },
+    "data": [
+      {
+        "korean": "외국인력상담센터는 고용허가제로 입국한 외국인 근로자와 이들을 고용한 사업주를 위한 기관입니다. 외국인 근로자의 언어소통 및 체류와 귀국 등에 관한 상담 서비스를 제공하기 위해 고용노동부와 한국산업인력공단이 함께 설립하였습니다. 한국 생활 적응에 어려움을 겪고 있거나 사업주와의 갈등 시 언어 문제 등으로 어려움을 겪는 외국인 근로자들이 이용할 수 있습니다.",
+        "vietnamese": "Trung tâm tư vấn nhân lực nước ngoài là cơ quan dành cho người lao động nước ngoài đã nhập cảnh theo chương trình cấp phép lao động và chủ doanh nghiệp thuê họ. Để cung cấp dịch vụ tư vấn liên quan đến giao tiếp ngôn ngữ, lưu trú và hồi hương, Bộ Lao động và Cơ quan Nhân lực Công nghiệp Hàn Quốc đã cùng thành lập trung tâm này. Người lao động nước ngoài gặp khó khăn khi thích nghi cuộc sống hoặc xung đột với chủ doanh nghiệp cũng có thể sử dụng dịch vụ."
+      },
+      {
+        "korean": "특히 농촌 지역과 중소 도시 등 도시에서 떨어져 있는 지역의 외국인 근로자에게 체계적이고 효율적인 서비스를 제공합니다. 또한 외국인 근로자의 권익 보호와 사회 안전망 구축에 꾸준히 힘쓰고 있으며, 다양한 외국어로 서비스되고 있어 한국어를 잘 모르는 근로자들도 쉽게 도움을 받을 수 있습니다.",
+        "vietnamese": "Đặc biệt, trung tâm cung cấp dịch vụ hệ thống và hiệu quả cho người lao động nước ngoài ở các khu vực nông thôn và thành phố vừa, nhỏ. Ngoài ra, trung tâm cũng nỗ lực không ngừng để bảo vệ quyền lợi và xây dựng mạng lưới an toàn xã hội cho người lao động. Dịch vụ được cung cấp bằng nhiều ngôn ngữ khác nhau nên ngay cả những người không biết tiếng Hàn cũng có thể dễ dàng nhận được sự giúp đỡ."
+      },
+      {
+        "korean": "전화 상담은 홈페이지(www.hugkorea.or.kr)를 통해 안내받을 수 있습니다. 상담 시간은 매일 오전 9시부터 오후 6시까지이며, 전화번호 1577-0071을 누른 후 국가별 번호와 별표(*)를 누르면 상담을 받을 수 있습니다.",
+        "vietnamese": "Tư vấn qua điện thoại được hướng dẫn thông qua trang web (www.hugkorea.or.kr). Thời gian tư vấn: từ 9 giờ sáng đến 6 giờ chiều mỗi ngày. Gọi số 1577-0071, sau đó nhập mã quốc gia và nhấn phím (*) để được kết nối với nhân viên tư vấn."
+      }
+    ],
+    "voca": {
+      "상담 전화": "Điện thoại tư vấn",
+      "통역상담지원센터": "Trung tâm hỗ trợ tư vấn thông dịch",
+      "건강 검진을 받다": "Được kiểm tra sức khoẻ",
+      "노래자랑": "Cuộc thi hát",
+      "얼른": "Nhanh chóng",
+      "외국인력상담센터": "Trung tâm tư vấn nhân lực nước ngoài",
+      "고용허가제": "Chương trình cấp phép lao động",
+      "고용하다": "Tuyển dụng",
+      "언어소통": "Giao tiếp ngôn ngữ",
+      "고용노동부": "Bộ Lao động và Việc làm",
+      "한국산업인력공단": "Cơ quan Nhân lực Công nghiệp Hàn Quốc",
+      "설립하다": "Thành lập",
+      "적응": "Thích ứng",
+      "어려움을 겪다": "Gặp khó khăn",
+      "농촌 지역": "Khu vực nông thôn",
+      "체계적": "Mang tính hệ thống",
+      "권익 보호": "Bảo vệ quyền lợi",
+      "안전망": "Mạng lưới an toàn",
+      "구축": "Xây dựng",
+      "꾸준히": "Một cách đều đặn",
+      "힘쓰다": "Nỗ lực"
+    }
+  }
+]

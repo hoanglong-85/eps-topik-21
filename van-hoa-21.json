@@ -1,0 +1,44 @@
+[
+  {
+    "title": {
+      "korean": "한국의 의료 체계",
+      "vietnamese": "Hệ thống y tế của Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "한국의 병원은 1차, 2차, 3차 의료기관으로 나뉩니다. 1차 의료기관은 주로 외래 환자를 진료하는 작은 규모의 동네 의원이나 보건소를 말하고, 2차 의료기관은 병상 수가 30개 이상인 조금 큰 병원을 말합니다. 1, 2차 의료기관에서 진료를 받았는데도 증상이 낫지 않거나 정밀검사, 복잡한 수술 등이 필요하면 3차 의료기관을 방문하게 됩니다. 3차 의료기관인 상급종합병원은 정부의 평가를 통과한 대형 병원으로, 기관이 높아질수록 비용이 비싸지며 2, 3차 의료기관은 예약을 해야 진료를 받을 수 있습니다.",
+        "vietnamese": "Bệnh viện Hàn Quốc được chia thành cơ sở y tế cấp 1, 2, 3. Cơ sở cấp 1 chủ yếu điều trị bệnh nhân ngoại trú như trạm y tế, phòng khám nhỏ. Cơ sở cấp 2 là bệnh viện có từ 30 giường trở lên. Nếu đã điều trị ở cấp 1, 2 mà triệu chứng không cải thiện hoặc cần xét nghiệm, phẫu thuật phức tạp thì sẽ đến cơ sở cấp 3. Bệnh viện đa khoa cấp cao (cơ sở 3) là bệnh viện lớn đã được chính phủ đánh giá. Cấp càng cao chi phí càng lớn và cơ sở 2, 3 cần đặt lịch hẹn trước."
+      },
+      {
+        "korean": "몸이 아프면 먼저 의원에 갑니다. 전문 분야가 세분되어 있어 아픈 곳에 맞는 의원을 찾아가면 됩니다. 대부분의 의원에서도 전문의가 직접 진료합니다. 다음은 진료 분야입니다. 내과, 정형외과, 치과, 안과, 소아청소년과, 이비인후과, 피부과, 산부인과, 성형외과, 한의원.",
+        "vietnamese": "Khi bị đau, trước tiên hãy đến phòng khám. Các chuyên khoa được phân chia rõ ràng, bạn có thể tìm phòng khám phù hợp với triệu chứng. Hầu hết các phòng khám đều có bác sĩ chuyên khoa trực tiếp khám. Các chuyên khoa: nội khoa, chấn thương chỉnh hình, nha khoa, nhãn khoa, nhi - thanh thiếu niên, tai mũi họng, da liễu, sản khoa, ngoại chỉnh hình, đông y."
+      },
+      {
+        "korean": "2024년 5월 20일부터는 의원이나 병원에서 진료를 받을 때 반드시 건강보험증이나 신분증(주민등록증, 운전면허증, 여권, 외국인 등록증 등)을 가지고 가야 합니다. 그래야 건강보험 급여를 적용받을 수 있습니다.",
+        "vietnamese": "Từ ngày 20/5/2024, khi khám tại phòng khám hoặc bệnh viện, bạn phải mang theo thẻ bảo hiểm y tế hoặc giấy tờ tùy thân (CMND, bằng lái, hộ chiếu, thẻ đăng ký người nước ngoài...) để được hưởng quyền lợi bảo hiểm."
+      }
+    ],
+    "voca": {
+      "차": "Xe, trà",
+      "의료기관": "Cơ sở y tế",
+      "외래": "Điều trị ngoại trú",
+      "동네 의원": "Trạm xá, phòng khám địa phương",
+      "병상 수": "Số giường bệnh",
+      "증상이 낫다": "Giảm triệu chứng",
+      "정밀검사": "Xét nghiệm chuyên sâu, kiểm tra kỹ lưỡng",
+      "복잡한 수술": "Ca phẫu thuật phức tạp",
+      "상급종합병원": "Bệnh viện đa khoa cấp cao",
+      "통과하다": "Thông qua, vượt qua",
+      "내과": "Khoa nội",
+      "정형외과": "Khoa chấn thương chỉnh hình",
+      "치과": "Khoa răng",
+      "안과": "Khoa mắt",
+      "소아청소년과": "Khoa nhi thanh thiếu niên",
+      "이비인후과": "Khoa tai mũi họng",
+      "피부과": "Khoa da liễu",
+      "산부인과": "Khoa sản",
+      "성형외과": "Khoa ngoại chỉnh hình",
+      "한의원": "Viện y học cổ truyền Hàn Quốc"
+    }
+  }
+]

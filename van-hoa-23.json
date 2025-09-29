@@ -1,0 +1,48 @@
+[
+  {
+    "title": {
+      "korean": "한국의 우체국 서비스",
+      "vietnamese": "Dịch vụ bưu điện của Hàn Quốc"
+    },
+    "data": [
+      {
+        "korean": "우체국은 다른 사람에게 편지나 문서, 소포 등을 보낼 때 이용하는 곳입니다. 외국에 물건을 보낼 때는 국제 특급 우편 서비스인 EMS(Express Mail Service)를 이용하면 편리합니다. EMS로 우편물을 보내면 빠르고 안전하게 받는 사람에게 전달할 수 있으며, 온라인에서 실시간으로 배달 상황을 조회할 수 있어 좋습니다.",
+        "vietnamese": "Bưu điện là nơi gửi thư, tài liệu, bưu phẩm cho người khác. Khi gửi hàng ra nước ngoài, bạn có thể sử dụng dịch vụ chuyển phát nhanh quốc tế EMS (Express Mail Service) rất thuận tiện. Gửi bưu phẩm bằng EMS giúp chuyển nhanh và an toàn đến người nhận, đồng thời bạn có thể kiểm tra tình trạng giao hàng trực tuyến theo thời gian thực."
+      },
+      {
+        "korean": "EMS나 국제 소포(항공편, 선편)로는 편지, 책, 옷, 화장품 등을 보낼 수 있지만 음식, 약, 현금 등은 보낼 수 없습니다. 물론 동식물이나 인화성 물질, 폭발물 등도 보낼 수 없습니다.",
+        "vietnamese": "Bạn có thể gửi thư, sách, quần áo, mỹ phẩm qua EMS hoặc bưu kiện quốc tế (đường hàng không, đường biển), nhưng không thể gửi thực phẩm, thuốc men, tiền mặt. Tất nhiên cũng không thể gửi động thực vật, vật liệu dễ cháy hay chất nổ."
+      },
+      {
+        "korean": "국내에서 중요한 문서나 고가의 물품 등을 보낼 때는 수령 확인 서비스를 제공하는 등기로 보내면 보다 안전합니다. 우편물을 등기로 보내면 받은 사람이 수령 후 서명을 하게 되어 있기 때문에 보낸 사람이 수령 사실을 확인할 수 있습니다.",
+        "vietnamese": "Khi gửi tài liệu quan trọng hoặc hàng hóa có giá trị trong nước, bạn nên dùng dịch vụ bảo đảm có xác nhận nhận hàng để an toàn hơn. Khi gửi bằng bảo đảm, người nhận phải ký nhận sau khi nhận hàng nên người gửi có thể xác nhận việc đã giao."
+      },
+      {
+        "korean": "한편, 한국의 우체국은 우편물 서비스 외에 간단한 은행 서비스도 제공합니다. 우체국에서도 은행과 같이 계좌를 개설하거나, 보험이나 적금에 가입할 수도 있고 공과금을 납부할 수도 있습니다.",
+        "vietnamese": "Ngoài dịch vụ bưu chính, bưu điện Hàn Quốc còn cung cấp các dịch vụ ngân hàng đơn giản. Tại bưu điện, bạn có thể mở tài khoản như ở ngân hàng, đăng ký bảo hiểm, tiết kiệm hoặc nộp các khoản phí công cộng."
+      }
+    ],
+    "voca": {
+      "문서": "Hồ sơ, tài liệu",
+      "조회하다": "Kiểm tra, tra cứu",
+      "배달 상황": "Tình trạng giao hàng",
+      "실시간": "Thời gian thực",
+      "항공편": "Đường hàng không",
+      "선편": "Đường biển",
+      "물론": "Tất nhiên, dĩ nhiên",
+      "동식물": "Động thực vật",
+      "인화성": "Tính dễ cháy",
+      "물질": "Vật chất",
+      "폭발물": "Chất nổ",
+      "고가의 물품": "Đồ vật giá trị cao",
+      "수령": "Việc nhận hàng",
+      "안전하다": "An toàn",
+      "서명을 하다": "Ký tên",
+      "한편": "Mặt khác",
+      "계좌를 개설하다": "Mở tài khoản",
+      "보험": "Bảo hiểm",
+      "적금에 가입하다": "Tham gia gửi tiết kiệm",
+      "공과금을 납부하다": "Đóng phí tiện ích"
+    }
+  }
+]
