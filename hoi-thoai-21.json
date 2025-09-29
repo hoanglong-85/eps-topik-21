@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-21-1.mp3",
+  "hinhanh": "hoi-thoai-21-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "간호사",
+      "korean": "안녕하세요? 저희 병원에 처음 오셨어요?",
+      "vietnamese": "Xin chào. Đây là lần đầu bạn đến bệnh viện của chúng tôi phải không?"
+    },
+    {
+      "speaker": "아지자",
+      "korean": "네, 처음이에요.",
+      "vietnamese": "Vâng, đây là lần đầu tiên."
+    },
+    {
+      "speaker": "간호사",
+      "korean": "그럼 여기에 이름과 전화번호를 써 주세요. 그리고 신분증을 보여 주세요.",
+      "vietnamese": "Vậy xin hãy ghi tên và số điện thoại của bạn vào đây. Và vui lòng cho tôi xem giấy tờ tùy thân."
+    },
+    {
+      "speaker": "아지자",
+      "korean": "신분증 여기 있어요.",
+      "vietnamese": "Đây là giấy tờ tùy thân của tôi."
+    },
+    {
+      "speaker": "간호사",
+      "korean": "잠시만 기다리세요. 그리고 이름을 부르면 진료실로 들어가세요.",
+      "vietnamese": "Xin hãy chờ một chút. Khi nghe gọi tên, hãy vào phòng khám."
+    },
+    {
+      "speaker": "아지자",
+      "korean": "네, 감사합니다.",
+      "vietnamese": "Vâng, cảm ơn."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "아지자 씨는 지금 어디에 있어요?",
+      "vietnamese_question": "Bây giờ Aziza đang ở đâu?",
+      "korean_answer": "병원에 있어요.",
+      "vietnamese_answer": "Đang ở bệnh viện."
+    },
+    {
+      "korean_question": "병원에 처음 가면 무엇이 필요해요?",
+      "vietnamese_question": "Khi lần đầu đến bệnh viện cần gì?",
+      "korean_answer": "이름, 전화번호, 신분증이 필요해요.",
+      "vietnamese_answer": "Cần ghi tên, số điện thoại và mang giấy tờ tùy thân."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-21-2.mp3",
+  "hinhanh": "hoi-thoai-21-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "의사",
+      "korean": "어디가 아프세요?",
+      "vietnamese": "Bạn bị đau ở đâu?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "목이 너무 아프고 머리도 아파요.",
+      "vietnamese": "Tôi đau họng nhiều và cũng đau đầu."
+    },
+    {
+      "speaker": "의사",
+      "korean": "요즘 감기 환자가 많아요. 언제부터 아프셨어요?",
+      "vietnamese": "Dạo này có nhiều bệnh nhân bị cảm. Bạn bắt đầu thấy đau từ khi nào?"
+    },
+    {
+      "speaker": "자야",
+      "korean": "어제부터 아팠어요.",
+      "vietnamese": "Tôi bị đau từ hôm qua."
+    },
+    {
+      "speaker": "의사",
+      "korean": "처방전을 드릴게요. 약을 드시고 따뜻한 물을 많이 드세요. 그리고 말을 많이 하지 마세요.",
+      "vietnamese": "Tôi sẽ kê đơn thuốc cho bạn. Hãy uống thuốc, uống nhiều nước ấm và đừng nói nhiều."
+    },
+    {
+      "speaker": "자야",
+      "korean": "네, 알겠습니다.",
+      "vietnamese": "Vâng, tôi hiểu rồi."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "자야 씨는 어디가 아파요?",
+      "vietnamese_question": "Jaya bị đau ở đâu?",
+      "korean_answer": "목이 아프고 머리도 아파요.",
+      "vietnamese_answer": "Đau họng và đau đầu."
+    },
+    {
+      "korean_question": "자야 씨는 무엇을 하면 안 돼요?",
+      "vietnamese_question": "Jaya không nên làm gì?",
+      "korean_answer": "말을 많이 하지 말아야 해요.",
+      "vietnamese_answer": "Không nên nói nhiều."
+    }
+  ]
+ }
+ ]
+

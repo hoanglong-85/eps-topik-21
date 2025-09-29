@@ -1,0 +1,99 @@
+
+[
+{
+  "audio": "hoi-thoai-22-1.mp3",
+  "hinhanh": "hoi-thoai-22-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "약사",
+      "korean": "민민아웅 씨, 약 나왔습니다. 이건 기침약이고 이건 콧물약이에요. 하루에 세 번, 식사하고 드세요.",
+      "vietnamese": "Anh Min Min Aung, thuốc đã chuẩn bị xong. Đây là thuốc ho và đây là thuốc sổ mũi. Uống mỗi ngày ba lần, sau khi ăn."
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "이 약을 먹으면 졸려요?",
+      "vietnamese": "Uống thuốc này có bị buồn ngủ không?"
+    },
+    {
+      "speaker": "약사",
+      "korean": "네, 졸리니까 운전하지 마세요.",
+      "vietnamese": "Có, sẽ buồn ngủ nên đừng lái xe."
+    },
+    {
+      "speaker": "민민아웅",
+      "korean": "알겠습니다. 그런데 이 노란색 약은 뭐예요?",
+      "vietnamese": "Tôi hiểu rồi. Nhưng viên thuốc màu vàng này là gì?"
+    },
+    {
+      "speaker": "약사",
+      "korean": "아, 이 약은 열이 날 때 먹는 거예요. 열이 많이 나면 드세요. 그리고 물을 많이 마시면 좋아요.",
+      "vietnamese": "À, thuốc này uống khi bị sốt. Nếu sốt cao thì uống. Và nên uống nhiều nước."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "민민아웅 씨는 언제 약을 먹어야 돼요?",
+      "vietnamese_question": "Anh Min Min Aung nên uống thuốc khi nào?",
+      "korean_answer": "하루에 세 번, 식사 후에 먹어야 돼요.",
+      "vietnamese_answer": "Ngày ba lần, sau bữa ăn."
+    },
+    {
+      "korean_question": "왜 약을 먹고 운전을 하면 안 돼요?",
+      "vietnamese_question": "Tại sao sau khi uống thuốc không được lái xe?",
+      "korean_answer": "약을 먹으면 졸리기 때문에 운전을 하면 안 돼요.",
+      "vietnamese_answer": "Vì uống thuốc sẽ buồn ngủ nên không được lái xe."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-22-2.mp3",
+  "hinhanh": "hoi-thoai-22-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "약사",
+      "korean": "어서 오세요. 어떻게 오셨어요?",
+      "vietnamese": "Chào mừng bạn. Bạn đến đây vì lý do gì?"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "어지럽고 소화가 잘 안 돼요.",
+      "vietnamese": "Tôi bị chóng mặt và khó tiêu."
+    },
+    {
+      "speaker": "약사",
+      "korean": "병원에는 가셨어요?",
+      "vietnamese": "Bạn đã đến bệnh viện chưa?"
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "아니요, 안 갔어요.",
+      "vietnamese": "Chưa, tôi chưa đi."
+    },
+    {
+      "speaker": "약사",
+      "korean": "그럼 이 소화제를 드셔 보세요. 약을 드신 후에 따뜻한 차를 많이 드세요. 그래도 계속 아프면 병원에 가 보세요.",
+      "vietnamese": "Vậy hãy thử uống thuốc tiêu hóa này. Sau khi uống thuốc, hãy uống nhiều trà ấm. Nếu vẫn còn đau thì hãy đến bệnh viện."
+    },
+    {
+      "speaker": "딜로바",
+      "korean": "네, 알겠습니다. 고맙습니다.",
+      "vietnamese": "Vâng, tôi hiểu rồi. Cảm ơn."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "딜로바 씨는 어디에 갔어요?",
+      "vietnamese_question": "Dilova đã đi đâu?",
+      "korean_answer": "약국에 갔어요.",
+      "vietnamese_answer": "Đã đến hiệu thuốc."
+    },
+    {
+      "korean_question": "딜로바 씨는 무슨 약을 샀어요?",
+      "vietnamese_question": "Dilova đã mua thuốc gì?",
+      "korean_answer": "소화제를 샀어요.",
+      "vietnamese_answer": "Đã mua thuốc tiêu hóa."
+    }
+  ]
+ }
+ ]
+

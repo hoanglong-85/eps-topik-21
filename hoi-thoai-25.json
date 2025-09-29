@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-25-1.mp3",
+  "hinhanh": "hoi-thoai-25-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "직원",
+      "korean": "안녕하세요? 어떻게 오셨어요?",
+      "vietnamese": "Xin chào. Bạn đến đây có việc gì?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "한국어 수업을 신청하러 왔는데요. 지금 신청 기간이지요?",
+      "vietnamese": "Tôi đến để đăng ký lớp học tiếng Hàn. Bây giờ là thời gian đăng ký đúng không?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "네, 맞습니다. 반이 여러 개 있는데 어느 반에서 공부하고 싶어요?",
+      "vietnamese": "Vâng, đúng vậy. Có nhiều lớp, bạn muốn học lớp nào?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "중급반하고 토픽반을 다 신청할 수 있어요?",
+      "vietnamese": "Tôi có thể đăng ký cả lớp trung cấp và lớp TOPIK không?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "한 반만 신청할 수 있어요. 이번에는 중급반에서 공부하고 다음에 토픽반을 신청하세요.",
+      "vietnamese": "Chỉ có thể đăng ký một lớp. Lần này hãy học lớp trung cấp và lần sau đăng ký lớp TOPIK."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "그럼 중급반 신청할게요. 감사합니다.",
+      "vietnamese": "Vậy tôi sẽ đăng ký lớp trung cấp. Cảm ơn."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "프엉 씨는 왜 여기에 왔어요?",
+      "vietnamese_question": "Phuong đến đây để làm gì?",
+      "korean_answer": "한국어 수업을 신청하러 왔어요.",
+      "vietnamese_answer": "Cô ấy đến để đăng ký lớp học tiếng Hàn."
+    },
+    {
+      "korean_question": "프엉 씨는 어느 반을 신청하려고 해요?",
+      "vietnamese_question": "Phuong định đăng ký lớp nào?",
+      "korean_answer": "중급반을 신청하려고 해요.",
+      "vietnamese_answer": "Cô ấy định đăng ký lớp trung cấp."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-25-2.mp3",
+  "hinhanh": "hoi-thoai-25-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "반장",
+      "korean": "디안 씨, 추석 때 외국인 근로자 노래자랑 대회가 있는데 나가 볼래요?",
+      "vietnamese": "Dian, dịp Trung thu có cuộc thi hát cho lao động nước ngoài, bạn có muốn tham gia không?"
+    },
+    {
+      "speaker": "디안",
+      "korean": "저는 많은 사람들 앞에서 노래를 안 해 봐서 좀 떨려요.",
+      "vietnamese": "Tôi chưa từng hát trước nhiều người nên hơi hồi hộp."
+    },
+    {
+      "speaker": "반장",
+      "korean": "아직 시간이 많으니까 걱정하지 마세요. 연습하면 괜찮을 거예요.",
+      "vietnamese": "Vẫn còn nhiều thời gian nên đừng lo. Luyện tập thì sẽ ổn thôi."
+    },
+    {
+      "speaker": "디안",
+      "korean": "좋아요. 한번 해 볼게요.",
+      "vietnamese": "Được, tôi sẽ thử."
+    },
+    {
+      "speaker": "반장",
+      "korean": "그럼 얼른 신청서 갖다줄게요. 내일까지 신청해야 되기 때문에 시간이 많지 않아요.",
+      "vietnamese": "Vậy tôi sẽ mang đơn đăng ký cho bạn ngay. Vì phải đăng ký trước ngày mai nên không còn nhiều thời gian."
+    },
+    {
+      "speaker": "디안",
+      "korean": "알겠습니다.",
+      "vietnamese": "Tôi hiểu rồi."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "두 사람은 무엇에 대해 이야기해요?",
+      "vietnamese_question": "Hai người đang nói về điều gì?",
+      "korean_answer": "추석 때 열리는 외국인 근로자 노래자랑 대회에 대해 이야기해요.",
+      "vietnamese_answer": "Họ đang nói về cuộc thi hát cho lao động nước ngoài diễn ra vào dịp Trung thu."
+    },
+    {
+      "korean_question": "노래자랑 대회 신청은 언제까지예요?",
+      "vietnamese_question": "Hạn đăng ký cuộc thi hát là khi nào?",
+      "korean_answer": "내일까지 신청해야 돼요.",
+      "vietnamese_answer": "Phải đăng ký trước ngày mai."
+    }
+  ]
+ }
+ ]
+

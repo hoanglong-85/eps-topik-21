@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-23-1.mp3",
+  "hinhanh": "hoi-thoai-23-1.jpg",
+  "hoithoai":[
+    {
+      "speaker": "다린두",
+      "korean": "이 소포를 부산으로 보내고 싶은데 지금 보내면 언제 도착해요?",
+      "vietnamese": "Tôi muốn gửi gói hàng này đến Busan. Nếu gửi bây giờ thì khi nào sẽ đến?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "일반 소포는 보통 3일이 걸리는데 익일 특급으로 보내면 내일 도착해요. 어떻게 보낼까요?",
+      "vietnamese": "Gói hàng thường mất khoảng 3 ngày, nhưng nếu gửi chuyển phát nhanh trong ngày thì ngày mai sẽ đến. Bạn muốn gửi cách nào?"
+    },
+    {
+      "speaker": "다린두",
+      "korean": "그럼 익일 특급으로 보내 주세요.",
+      "vietnamese": "Vậy hãy gửi bằng chuyển phát nhanh trong ngày."
+    },
+    {
+      "speaker": "직원",
+      "korean": "그런데 소포 안에 뭐가 있어요?",
+      "vietnamese": "Nhân tiện, trong gói hàng có gì vậy?"
+    },
+    {
+      "speaker": "다린두",
+      "korean": "옷하고 과자가 있어요.",
+      "vietnamese": "Có quần áo và bánh kẹo."
+    },
+    {
+      "speaker": "직원",
+      "korean": "네, 여기 주소하고 전화번호 좀 써 주세요.",
+      "vietnamese": "Vâng, xin hãy ghi địa chỉ và số điện thoại vào đây."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "다린두 씨는 소포를 어디로 보낼 거예요?",
+      "vietnamese_question": "Thalindu sẽ gửi gói hàng đến đâu?",
+      "korean_answer": "부산으로 보낼 거예요.",
+      "vietnamese_answer": "Sẽ gửi đến Busan."
+    },
+    {
+      "korean_question": "소포를 보내는 방법에는 어떤 것이 있어요?",
+      "vietnamese_question": "Có những cách nào để gửi gói hàng?",
+      "korean_answer": "일반 소포와 익일 특급이 있어요.",
+      "vietnamese_answer": "Có gửi thường và chuyển phát nhanh trong ngày."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-23-2.mp3",
+  "hinhanh": "hoi-thoai-23-2.jpg",
+  "hoithoai": [
+    {
+      "speaker": "직원",
+      "korean": "어서 오세요. 뭘 도와드릴까요?",
+      "vietnamese": "Chào mừng! Tôi có thể giúp gì cho bạn?"
+    },
+    {
+      "speaker": "다라",
+      "korean": "이 소포를 캄보디아로 보내고 싶은데요.",
+      "vietnamese": "Tôi muốn gửi gói hàng này đến Campuchia."
+    },
+    {
+      "speaker": "직원",
+      "korean": "저울 위에 올려 주세요. 비행기로 보내시지요?",
+      "vietnamese": "Xin đặt nó lên cân. Bạn sẽ gửi bằng đường hàng không đúng không?"
+    },
+    {
+      "speaker": "다라",
+      "korean": "네, 그런데 우편 요금이 얼마예요?",
+      "vietnamese": "Vâng. Vậy phí bưu điện là bao nhiêu?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "무게가 4kg이니까 일반 항공 우편으로 보내면 27,000원이고 EMS로 보내면 34,000원이에요.",
+      "vietnamese": "Vì cân nặng là 4kg nên nếu gửi bằng đường hàng không thường là 27,000 won, còn nếu gửi EMS là 34,000 won."
+    },
+    {
+      "speaker": "다라",
+      "korean": "그럼 EMS로 보내 주세요.",
+      "vietnamese": "Vậy hãy gửi bằng EMS."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "다라 씨는 왜 우체국에 왔어요?",
+      "vietnamese_question": "Tại sao Dara đến bưu điện?",
+      "korean_answer": "소포를 캄보디아로 보내려고 왔어요.",
+      "vietnamese_answer": "Vì muốn gửi gói hàng đến Campuchia."
+    },
+    {
+      "korean_question": "다라 씨는 우편 요금을 얼마 내야 돼요?",
+      "vietnamese_question": "Dara phải trả bao nhiêu phí bưu điện?",
+      "korean_answer": "EMS로 보내서 34,000원을 내야 돼요.",
+      "vietnamese_answer": "Vì gửi EMS nên phải trả 34,000 won."
+    }
+  ]
+ }
+ ]
+

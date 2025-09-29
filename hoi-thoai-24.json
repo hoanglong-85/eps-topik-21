@@ -1,0 +1,104 @@
+
+[
+{
+  "audio": "hoi-thoai-24-1.mp3",
+  "hinhanh": "hoi-thoai-24-1.jpg",
+  "hoithoai": [
+    {
+      "speaker": "닛차난",
+      "korean": "통장하고 체크 카드를 만들려고 왔는데요.",
+      "vietnamese": "Tôi đến để mở sổ ngân hàng và làm thẻ ghi nợ."
+    },
+    {
+      "speaker": "은행원",
+      "korean": "신분증과 도장, 거주지 증명 서류를 가지고 오셨어요?",
+      "vietnamese": "Bạn có mang theo chứng minh thư, con dấu và giấy chứng nhận cư trú không?"
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "네, 그런데 도장이 없는데요.",
+      "vietnamese": "Vâng, nhưng tôi không có con dấu."
+    },
+    {
+      "speaker": "은행원",
+      "korean": "그럼 서명도 괜찮습니다. 먼저 이 서류를 작성해 주세요.",
+      "vietnamese": "Vậy thì ký tên cũng được. Trước tiên, hãy điền vào tài liệu này."
+    },
+    {
+      "speaker": "닛차난",
+      "korean": "그리고 모바일 뱅킹도 이용하고 싶은데 어떻게 해야 돼요?",
+      "vietnamese": "Tôi cũng muốn sử dụng dịch vụ ngân hàng di động, phải làm thế nào?"
+    },
+    {
+      "speaker": "은행원",
+      "korean": "휴대 전화에 은행 앱을 다운로드하면 이용할 수 있어요.",
+      "vietnamese": "Bạn có thể sử dụng bằng cách tải ứng dụng ngân hàng về điện thoại di động."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "닛차난 씨는 왜 은행에 왔어요?",
+      "vietnamese_question": "Tại sao Nitchanan đến ngân hàng?",
+      "korean_answer": "통장하고 체크 카드를 만들려고 왔어요.",
+      "vietnamese_answer": "Vì muốn mở sổ ngân hàng và làm thẻ ghi nợ."
+    },
+    {
+      "korean_question": "모바일 뱅킹은 어떻게 이용할 수 있어요?",
+      "vietnamese_question": "Làm thế nào để sử dụng ngân hàng di động?",
+      "korean_answer": "휴대 전화에 은행 앱을 다운로드하면 이용할 수 있어요.",
+      "vietnamese_answer": "Có thể sử dụng bằng cách tải ứng dụng ngân hàng về điện thoại di động."
+    }
+  ]
+ },
+ {
+  "audio": "hoi-thoai-24-2.mp3",
+  "hinhanh": "hoi-thoai-24-2.jpg",
+  "hoithoai":[
+    {
+      "speaker": "직원",
+      "korean": "어서 오세요. 뭘 도와드릴까요?",
+      "vietnamese": "Xin chào. Tôi có thể giúp gì cho bạn?"
+    },
+    {
+      "speaker": "프엉",
+      "korean": "달러를 한국 돈으로 바꾸고 싶어요. 오늘 환율이 어떻게 돼요?",
+      "vietnamese": "Tôi muốn đổi đô la Mỹ sang tiền Hàn. Tỷ giá hôm nay như thế nào?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "1달러에 1,350원입니다. 요즘 환율이 조금 올랐습니다.",
+      "vietnamese": "1 đô la là 1.350 won. Gần đây tỷ giá đã tăng một chút."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "그럼 500달러를 바꿔 주세요. 신분증도 필요하지요?",
+      "vietnamese": "Vậy xin hãy đổi cho tôi 500 đô la. Cần cả chứng minh thư đúng không?"
+    },
+    {
+      "speaker": "직원",
+      "korean": "네, 신분증하고 달러를 같이 주시면 됩니다.",
+      "vietnamese": "Vâng, vui lòng đưa cả chứng minh thư và đô la."
+    },
+    {
+      "speaker": "프엉",
+      "korean": "여기 신분증과 500달러 있습니다.",
+      "vietnamese": "Đây là chứng minh thư và 500 đô la."
+    }
+  ],
+  "questions": [
+    {
+      "korean_question": "환전할 때 뭐가 필요해요?",
+      "vietnamese_question": "Khi đổi tiền cần gì?",
+      "korean_answer": "신분증과 달러가 필요해요.",
+      "vietnamese_answer": "Cần chứng minh thư và đô la."
+    },
+    {
+      "korean_question": "요즘 환율이 어때요?",
+      "vietnamese_question": "Dạo này tỷ giá thế nào?",
+      "korean_answer": "조금 올랐습니다.",
+      "vietnamese_answer": "Tỷ giá đã tăng một chút."
+    }
+  ]
+ }
+ ]
+
